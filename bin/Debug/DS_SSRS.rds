@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DS_SSRS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SOHELPC;Initial Catalog=bank;TrustServerCertificate=True</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>f45600ae-c862-4110-a3c5-79ef1688e25d</DataSourceID>
+</RptDataSource>
