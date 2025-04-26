@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.11.35327.3</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-04-24T05:13:34.6198725Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-04-26T15:32:12.5259140Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -1062,7 +1062,7 @@ FROM   dw.LoanInfo</CommandText>
                 <Paragraph>
                   <TextRuns>
                     <TextRun>
-                      <Value>=User!UserID</Value>
+                      <Value>hh</Value>
                       <Style />
                     </TextRun>
                   </TextRuns>

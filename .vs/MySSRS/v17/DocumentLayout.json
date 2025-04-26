@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ssrs\\ssrs-reports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B068B338-8288-4971-9ABA-463DE7A15A5D}|MySSRS.rptproj|D:\\ssrs\\ssrs-reports\\LoanInfoReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{B068B338-8288-4971-9ABA-463DE7A15A5D}|MySSRS.rptproj|solutionrelative:LoanInfoReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanInfoReport.rdl [Design]",
+              "DocumentMoniker": "D:\\ssrs\\ssrs-reports\\LoanInfoReport.rdl",
+              "RelativeDocumentMoniker": "LoanInfoReport.rdl",
+              "ToolTip": "D:\\ssrs\\ssrs-reports\\LoanInfoReport.rdl [Design]",
+              "RelativeToolTip": "LoanInfoReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T15:32:12.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
